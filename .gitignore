@@ -18,3 +18,5 @@
 
 .idea/
 .local/
+
+.direnv
